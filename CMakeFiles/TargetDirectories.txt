@@ -1,0 +1,4 @@
+C:/Users/rodoc/HOME/Developpement/Visual/Stipple/CMakeFiles/stipple.dir
+C:/Users/rodoc/HOME/Developpement/Visual/Stipple/CMakeFiles/cimg_test.dir
+C:/Users/rodoc/HOME/Developpement/Visual/Stipple/CMakeFiles/ALL_BUILD.dir
+C:/Users/rodoc/HOME/Developpement/Visual/Stipple/CMakeFiles/ZERO_CHECK.dir
