@@ -12,6 +12,7 @@ Texture converted to PNG with [STB](https://github.com/nothings/stb) filter.
 
 
 Parameters on which you can work have effect.
+
 ```c
 constexpr int MAX_PARTICLES = 8000;
 constexpr float dotSizeFactor = 4; // 5;
@@ -22,7 +23,8 @@ constexpr int iterations = 1128;
 ```
 
 
-the c++ main.
+C++ main.
+
 ```c
 int
 main()
@@ -51,6 +53,7 @@ main()
 ```
 
 Examples.
+
 <img src="images/grace.jpg" height="350">&nbsp;<img src="images/stippled/grace.png" height="350">
 
 <img src="images/KennyMcCormick.jpg" height="350">&nbsp;<img src="images/stippled/KennyMcCormick.png" height="350">
