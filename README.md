@@ -11,7 +11,7 @@ Rendered in a [SFML](https://www.sfml-dev.org/index-fr.php) texture.
 Texture converted to PNG with [STB](https://github.com/nothings/stb) filter.
 
 
-Parameters on which you can work have effect.
+Parameters on which you can have effect.
 
 ```c
 constexpr int MAX_PARTICLES = 8000;
