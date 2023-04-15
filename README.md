@@ -6,3 +6,5 @@ C++ conversion of StippleGen Evil Mad Scientist Processing pde project.
 
 
 <img src="images/grace.jpg" height="350">&nbsp;<img src="images/stippled/grace.png" height="350">
+
+<img src="images/KennyMcCormick.jpg" height="350">&nbsp;<img src="images/stippled/KennyMcCormick.png" height="350">
