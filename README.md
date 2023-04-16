@@ -10,7 +10,7 @@ Voronoi diagram computed with [jc_voronoi](https://github.com/JCash/voronoi).
 Rendered in a [SFML](https://www.sfml-dev.org/index-fr.php) texture.
 Texture converted to PNG with [STB](https://github.com/nothings/stb) filter.
 
-Note: The Visual C++ project can be created from CMakeFiles.txt with [VCPKG](https://github.com/microsoft/vcpkg).
+Note: The Visual C++ project can be created from CMakeFiles.txt with [Vcpkg](https://github.com/microsoft/vcpkg).
 ```
 cmake . -DCMAKE_TOOLCHAIN_FILE=[VCPKG_PATH]\scripts\buildsystems\vcpkg.cmake
 ```
